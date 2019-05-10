@@ -5,7 +5,7 @@ alias wttr=curl http://wttr.in/the-hague
 alias k9="kill -9"
 
 # python server
-Alias py_serve
+Alias pyserve=python -m SimpleHTTPServer 8000
 
 # GIT
 alias gac='git add . && git commit -m '
