@@ -1,0 +1,12 @@
+# weather
+alias wttr=curl http://wttr.in/the-hague
+
+# kill ?
+alias k9="kill -9"
+
+# python server
+Alias py_serve
+
+# GIT
+alias gac='git add . && git commit -m '
+alias gs=‘git status’
